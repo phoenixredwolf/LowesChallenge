@@ -4,6 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.loweschallenge.data.model.WeatherDetails
+import com.example.loweschallenge.data.model.WeatherResponseDTO
 import com.example.loweschallenge.databinding.ForecastItemBinding
 
 class DataAdapter(
